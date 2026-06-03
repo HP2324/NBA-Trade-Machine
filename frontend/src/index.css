@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Product+Sans&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    background-color: #16595c;
+    font-family: 'Product Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #000000;
+  }
